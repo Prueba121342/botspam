@@ -14,7 +14,9 @@ palabras_clave = {
     "quien dox?": "dox",
         "descanso": "disney",
     "medico": "perfil",
-
+    "netflix": "prime", 
+    "prime video": "hbo",
+        "max": "info",
     "penales": "doxing",
     "alguien me saca info de un numero": "saca info",
     "dni virtual": "dni virtual",
