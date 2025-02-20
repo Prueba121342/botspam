@@ -1,0 +1,40 @@
+{
+    "anuncios": [
+      
+     
+      {
+        "id": "crunchyroll_premium",
+        "texto": "🍜 **Crunchyroll Premium por S/5/mes por perfil!** 🎌\n\n🔸 **Todos tus animes favoritos**\n🔸 **Sin anuncios, HD**\n🔸 **Estrenos simultáneos con Japón**\n\n📞 **Consulta:** @reigenpe",
+        "imagen": "anuncios/Crunchyrroll.png"
+      },
+      {
+        "id": "dox_service",
+        "texto": "🕵️‍♂️ **¡Doxeo de antecedentes y más!** 💻\n\n🔸 **C4, SBS, info financiera**\n🔸 **DNI virtual por número, nombre o DNI**\n🔸 **Confidencialidad garantizada**\n\n📞 **Consulta:** @reigenpe",
+        "imagen": "anuncios/dox.jpg"
+      },
+      {
+        "id": "venta_seguidores",
+        "texto": "📈 **¡Consigue más seguidores y visualizaciones!** 🚀\n\n🔸 **Instagram** 📷, **Facebook** 📘, **Telegram** 💬, **Twitter** 🐦\n🔸 **Precios increíbles** 💰\n\n📞 **Consulta ahora:** @reigenpe",
+        "imagen": "anuncios/seguidores.jpg"
+      },
+      {
+        "id": "canva_pro",
+        "texto": "🎨 **¡Canva Pro por solo S/5 al mes!** ✨\n\n🔸 **Acceso a todas las funciones premium**\n🔸 **Miles de plantillas y recursos ilimitados**\n🔸 **Oferta anual: S/20 por 12 meses**\n\n📞 **Consulta ahora:** @reigenpe",
+        "imagen": "anuncios/canva.jpg"
+      },     {
+        "id": "Netflix",
+        "texto": "🎬 **¡Netflix Premium disponible!** 🎬\n\n✅ Cuenta completa o perfiles con acceso total\n🔐 Perfil con PIN personalizado\n🛡️ Seguridad garantizada\n\n📞 **Consulta:** @reigenpe",
+        "imagen": "anuncios/netflix.jpeg"
+      },
+       
+      {
+        "id": "yt_premium",
+        "texto": "🎉 **YOUTUBE PREMIUM + YOUTUBE MUSIC** ✨\n\n🔸 **Plan Individual: S/5/mes**\n🔸 **Familiar: S/9/mes (hasta 5 miembros)**\n🔸 **Familiar Especial: S/7/mes**\n\n📞 **Contáctame:** @reigenpe",
+        "imagen": "anuncios/ytprem.jpg"
+      }
+      
+      
+      
+    ]
+  }
+  
